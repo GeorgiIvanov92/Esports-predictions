@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "OcyzMTWqJDAflhkgjujns7Cw2tFYN1CD4wMG//nepPeSGDAi0TFwMBd52/72tLwNT/N8j858AzXjh/g8jm8XlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\G0PA\\source\\repos\\EsportStats\\EsportStats.Models\\EsportStats.Models.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://artifactory.sbtech.com:8081/artifactory/api/nuget/SBTech'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://35.195.169.140/repository/nuget-hosted/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
