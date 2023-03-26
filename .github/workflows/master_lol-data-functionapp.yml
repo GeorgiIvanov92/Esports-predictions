@@ -39,4 +39,4 @@ jobs:
           app-name: 'lol-data-functionapp'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7C9BC540E8614367A56A5BF901685808 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_02678089F83046ADBBBCFE6B981DDAD1 }}
